@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="4cfb6dc3-7cc4-47d6-a046-b7f43c892ef1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/PythonProject1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="4cfb6dc3-7cc4-47d6-a046-b7f43c892ef1" name="Changes" comment="print(&quot;Hello World!&quot;)" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,6 +44,19 @@
       <option name="presentableId" value="Default" />
       <updated>1740497073261</updated>
     </task>
+    <task id="LOCAL-00001" summary="print(&quot;Hello World!&quot;)">
+      <option name="closed" value="true" />
+      <created>1740497967736</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1740497967736</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="print(&quot;Hello World!&quot;)" />
+    <option name="LAST_COMMIT_MESSAGE" value="print(&quot;Hello World!&quot;)" />
   </component>
 </project>
