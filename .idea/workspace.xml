@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4cfb6dc3-7cc4-47d6-a046-b7f43c892ef1" name="Changes" comment="print(&quot;Hello World!&quot;)" />
+    <list default="true" id="4cfb6dc3-7cc4-47d6-a046-b7f43c892ef1" name="Changes" comment="print(&quot;Hello World!&quot;)&#10;&#10;&#10;Initial commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +15,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Moaz225"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Moaz225/origin",
+    "accountId": "094d6b46-1722-428b-8a2e-090385d58c7a"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 1
 }]]></component>
@@ -52,11 +66,20 @@
       <option name="project" value="LOCAL" />
       <updated>1740497967736</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="print(&quot;Hello World!&quot;)&#10;&#10;&#10;Initial commit">
+      <option name="closed" value="true" />
+      <created>1740498202576</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1740498202576</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="print(&quot;Hello World!&quot;)" />
-    <option name="LAST_COMMIT_MESSAGE" value="print(&quot;Hello World!&quot;)" />
+    <MESSAGE value="print(&quot;Hello World!&quot;)&#10;&#10;&#10;Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="print(&quot;Hello World!&quot;)&#10;&#10;&#10;Initial commit" />
   </component>
 </project>
